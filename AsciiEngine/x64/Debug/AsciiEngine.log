@@ -1,0 +1,13 @@
+﻿  Game.cpp
+E:\University\ct4102-assignment-1-ascii-game-BenButcher-4005578\AsciiEngine\Constants.h(28,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\University\ct4102-assignment-1-ascii-game-BenButcher-4005578\AsciiEngine\Constants.h(29,44): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\University\ct4102-assignment-1-ascii-game-BenButcher-4005578\AsciiEngine\Utility.h(107,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\University\ct4102-assignment-1-ascii-game-BenButcher-4005578\AsciiEngine\Utility.h(137,58): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\University\ct4102-assignment-1-ascii-game-BenButcher-4005578\AsciiEngine\Utility.h(87,6): warning C4101: 'comparedNumber': unreferenced local variable
+E:\University\ct4102-assignment-1-ascii-game-BenButcher-4005578\AsciiEngine\Utility.h(86,6): warning C4101: 'tempNumber': unreferenced local variable
+E:\University\ct4102-assignment-1-ascii-game-BenButcher-4005578\AsciiEngine\Utility.h(110,15): warning C4101: 'n': unreferenced local variable
+  Main.cpp
+E:\University\ct4102-assignment-1-ascii-game-BenButcher-4005578\AsciiEngine\Constants.h(28,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\University\ct4102-assignment-1-ascii-game-BenButcher-4005578\AsciiEngine\Constants.h(29,44): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating Code...
+  AsciiEngine.vcxproj -> E:\University\ct4102-assignment-1-ascii-game-BenButcher-4005578\x64\Debug\AsciiEngine.exe

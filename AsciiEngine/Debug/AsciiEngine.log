@@ -1,0 +1,10 @@
+﻿  Game.cpp
+E:\University\AsciiEngine\AsciiEngine\AsciiEngine\Constants.h(28,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\University\AsciiEngine\AsciiEngine\AsciiEngine\Constants.h(29,44): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\University\AsciiEngine\AsciiEngine\AsciiEngine\Utility.h(107,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\University\AsciiEngine\AsciiEngine\AsciiEngine\Utility.h(137,58): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\University\AsciiEngine\AsciiEngine\AsciiEngine\Utility.h(87,6): warning C4101: 'comparedNumber': unreferenced local variable
+E:\University\AsciiEngine\AsciiEngine\AsciiEngine\Utility.h(86,6): warning C4101: 'tempNumber': unreferenced local variable
+E:\University\AsciiEngine\AsciiEngine\AsciiEngine\Utility.h(110,15): warning C4101: 'n': unreferenced local variable
+E:\University\AsciiEngine\AsciiEngine\AsciiEngine\Utility.h(245,20): warning C4018: '<': signed/unsigned mismatch
+  AsciiEngine.vcxproj -> E:\University\AsciiEngine\AsciiEngine\Debug\AsciiEngine.exe
